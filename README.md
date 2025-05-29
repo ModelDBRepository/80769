@@ -18,8 +18,7 @@ Simply autolaunch from ModelDB or:
    - MS Windows: double click on the `mosinit.hoc` file.
    - Mac: drag the `mosinit.hoc` file to the nrngui icon in the Neuron folder.
 
-6/8/2007 version updated: a short demonstration run has been added.
-
----
-
-2025-05-27 – Standardized to Markdown.
+   
+## Changelog
+6/8/2007 version updated: a short demonstration run has been added.  
+5/27/2025 Standardized to Markdown.
